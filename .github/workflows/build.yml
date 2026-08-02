@@ -24,4 +24,4 @@ jobs:
           push: true
           tags: |
             ghcr.io/eiomsirius/oh-my-pi-docker:latest
-            ghcr.io/eiomsirius/oh-my-pi-docker:v2
+            ghcr.io/eiomsirius/oh-my-pi-docker:v3
